@@ -1,0 +1,3 @@
+C:/Users/vlads/OneDrive/Desktop/BankAccounts/BankAccounts/cmake-build-debug/CMakeFiles/BankAccounts.dir
+C:/Users/vlads/OneDrive/Desktop/BankAccounts/BankAccounts/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vlads/OneDrive/Desktop/BankAccounts/BankAccounts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
